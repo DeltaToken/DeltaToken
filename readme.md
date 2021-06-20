@@ -1,7 +1,5 @@
 # DeltaToken
 
-> Repository Delta Token
-
 ### Welcome To Delta Token ( Zil Network )
 
 We Already Listing On Zilswap.io
