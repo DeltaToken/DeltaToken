@@ -13,7 +13,9 @@ We Already Listing On Zilswap.io
 6. Tap Swap and confirm
 
 Join Us :
+
 https://twitter.com/DeltaTokenZil
+
 https://t.me/DeltaToken
 
 Website :
