@@ -17,4 +17,10 @@ We Already Listing On Zilswap.io
 Join Us :
 https://twitter.com/DeltaTokenZil
 
+Website :
+https://delta-token.company/
+
+Github :
+https://github.com/DeltaToken
+
 
